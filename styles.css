@@ -1,0 +1,63 @@
+
+
+body {
+    background-color: #f5ffff;
+    color: black;
+    margin: 0;
+}
+
+nav {
+    height:  50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #bef0ff;
+}
+
+.zero{
+    display: flex;
+    height: 30px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    /* color: blueviolet; */
+}
+
+.footer{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    /* color: blueviolet; */
+}
+
+
+.section1 , .section2{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    /* background-color: indigo; */
+    gap: 60px;
+}
+
+.movie-section{
+    height: 100vh;
+}
+
+
+.one{
+    height: 500px;
+    width: 500px;
+}
+
+
+.portfolio{
+    height: 400px;
+}
+
+.images-row{
+    width: auto
+}
+

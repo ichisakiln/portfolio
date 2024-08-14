@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(255, 91, 91);
+    color: black;
+    margin: 0;
+}
+
+.one {
+    background-color: rgb(92, 171, 255);
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+.two {
+    background-color:rgb(111, 245, 91);
+    margin: 0;
+}
+
+
+ul, ol, h1
+{
+    margin: 0;
+}
